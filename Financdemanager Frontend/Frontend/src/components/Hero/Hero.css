@@ -1,0 +1,10 @@
+/* /e:/coding essentials/web codes/Java Project/Financdemanager Frontend/Frontend/src/components/Hero/Hero.css */
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
